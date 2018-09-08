@@ -42,7 +42,9 @@ class NewVisitorTest(unittest.TestCase):
             any(row.text=='1:Buy peacock feathers' for row in rows)
         )
 
-        
+        #page show another textbox ,you can input more to do
+        #she type: Use peacode feathers to make fly
+        #
 
 
         self.fail('Finish the test!')
